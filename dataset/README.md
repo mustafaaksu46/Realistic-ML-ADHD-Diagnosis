@@ -3,7 +3,6 @@
 
 This project uses a publicly available ADHD dataset and a transformed version generated in this study.
 
-## 🔗 Data Source
 The original dataset is available on Kaggle:  
 Mohamed, A. (2024), "ADHD Dataset – 4 Classes"  
 https://www.kaggle.com/datasets/a7md19/adhd-dataset-4-classes-u2
